@@ -1,0 +1,45 @@
+.centre {
+  width: 500px;
+  height: 200px;
+  background-color: black;
+  margin: 150px auto;
+  display: block;
+  text-align:center;
+}
+
+.inner-container { 
+  display: inline-block;
+  width: 200px;
+  height: 100px;
+}
+
+button {
+  display: block;
+  margin: 20px auto;
+}
+
+h1 {
+  color:white;
+}
+
+.pic {
+  width: 100%;
+}
+
+#mid {
+  width: 60px;
+  vertical-align: top;
+}
+
+input[type="text"] {
+  margin-top: 20px;
+
+}
+
+body {
+  background-repeat: no-repeat;  
+  
+  background-image: url("http://www.coremgmt.com/wp-content/uploads/2016/04/Scales-of-Justice.jpg");
+  
+  background-size: cover;
+}
