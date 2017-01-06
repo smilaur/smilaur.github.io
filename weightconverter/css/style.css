@@ -33,13 +33,30 @@ h1 {
 
 input[type="text"] {
   margin-top: 20px;
-
+  font-family: Comfortaa; 
 }
 
 body {
   background-repeat: no-repeat;  
-  
   background-image: url("http://www.coremgmt.com/wp-content/uploads/2016/04/Scales-of-Justice.jpg");
-  
   background-size: cover;
+  font-family: Comfortaa; 
+}
+
+button {
+  background-color: #666699;
+  border-radius: 10%;
+  border-style: solid;
+  border-color: #9966ff;
+  border-width: 2px;
+  font-family: Comfortaa; 
+  font-size: 14px;
+
+}
+button:hover {
+  font-family: Bungee Shade; 
+  background-color: #00ff00;
+  font-size: 40px; 
+  border-color: #ff0000;
+  border-width: 20px;
 }
