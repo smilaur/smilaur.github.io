@@ -1,0 +1,40 @@
+.omanyte1,
+.omanyte2,
+.omanyte3 {
+  display: inlne-block;
+  margin: 40px;
+  width: 500px;
+}
+
+body {
+  background-color: #0073e6;
+  font-family: cormorant garamond;
+  font-size: 100px;
+}
+
+.emptyBox {
+  height: 160px;
+  width: 800px;
+  background-color: #f2f2f2;
+  border-radius: 10px;
+  margin: 20px auto;
+  border-width: 20px;
+  border-color: #1aff1a;
+  border-style: ridge;
+  text-align: center;
+  font-size: 50px;
+
+}
+img:hover {
+  cursor: url("http://pldh.net/media/pokemon/shuffle/138.png"),auto;
+  
+}
+
+h3 {
+  text-align: center;
+}
+
+.pics {
+  text-align: center;
+}
+
